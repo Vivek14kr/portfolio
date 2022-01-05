@@ -1,0 +1,28 @@
+.contact {
+  flex-direction: column;
+}
+#line1{
+  height: 2px;
+  width: 15%;
+  border-bottom: 2px solid #CDCDFF;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+
+#github{
+  width: 60px;
+  height: 60px;
+}
+#linkedin{
+  width: 70px;
+  height: 70px;
+}
+#email{
+   width: 70px;
+  height: 70px;
+}
+.logocontact{
+  padding-left: 5%;
+ margin: 0 auto;
+}

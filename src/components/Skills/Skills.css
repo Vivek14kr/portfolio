@@ -1,0 +1,29 @@
+.skills__list {
+  width: auto;
+ 
+  margin:auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills__list-item {
+  margin: 0.5em;
+}
+
+.imagetech{
+  height: 50px;
+  width: 50px;
+
+  justify-content: center;
+}
+.techtitle{
+  text-align: center;
+  justify-content: center;
+}
+.skillstech{
+  display: flex;
+}
+.techbox{
+  margin: auto 1%;
+}

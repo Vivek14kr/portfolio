@@ -1,0 +1,13 @@
+.projects__grid {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: (auto-fit, minmax(18em, 1fr));
+  grid-gap: 2em;
+}
+.line{
+  height: 2px;
+  width: 15%;
+  border-bottom: 2px solid #CDCDFF;
+  margin: 0 auto;
+}
