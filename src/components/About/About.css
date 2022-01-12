@@ -1,5 +1,8 @@
 .about {
     flex-direction: column;
+    
+}
+#about{
     margin-top: 3em;
 }
 
