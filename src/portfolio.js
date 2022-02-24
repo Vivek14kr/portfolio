@@ -32,10 +32,26 @@ const projects = [
     image: "/porter.png",
     description:
       "A website to Book mini-trucks and intra city logistics. Built the Backend and frontend of porter.in using ejs CSS,Javascript, express js, node js and mongoo db. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page",
-    stack: ["HTML", "CSS", "JAVASCRIPT", "EJS", "Expressjs","Nodejs", "MongoDB"],
+    stack: [
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+      "EJS",
+      "Expressjs",
+      "Nodejs",
+      "MongoDB",
+    ],
     sourceCode:
       "https://github.com/avinashpanchal123/porterClone_Backend/tree/main/constructweek_porter_clone-main",
     livePreview: "https://porterclone.herokuapp.com/",
+  },
+  {
+    name: "Clone of NordStorm",
+    image: "/k.png",
+    description: "An E-commerce application to shop all apparels",
+    stack: ["React", "Redux", "Expressjs", "Nodejs", "MongoDB"],
+    sourceCode: "https://github.com/taherahmed14/nordstrom-clone/",
+    livePreview: "",
   },
 ];
 
