@@ -9,7 +9,7 @@ const about = {
   description:
     "Full-Stack Web Developer with an ability to learn and collaborate in rapidly changing environments and compositions. Worked through 6 months of intensive Bootcamp structure and learned MERN tech stack. Eager to learn new technologies and tackle new web development challenges.",
   resume:
-    "https://drive.google.com/file/d/1j-DPFCA4R3546j1cPx-Hwg_6lfHXg-ii/view?usp=sharing",
+    "https://drive.google.com/file/d/1EjUJ5Gl6OFTRXEUpUdoZsL7KiAzx2PQg/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/vivek-kumar-56a0a81a6/",
     github: "https://github.com/Vivek14kr",
