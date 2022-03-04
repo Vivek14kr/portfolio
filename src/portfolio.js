@@ -52,7 +52,7 @@ const projects = [
     description: "An E-commerce application to shop all apparels",
     stack: ["React", "Redux", "Expressjs", "Nodejs", "MongoDB"],
     sourceCode: "https://github.com/taherahmed14/nordstrom-clone/",
-    livePreview: "",
+    livePreview: "https://nordstrom-clone-sage.vercel.app/",
   },
 ];
 
