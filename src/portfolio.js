@@ -28,6 +28,7 @@ const projects = [
     sourceCode: "https://github.com/nkil123/lakme_clone",
     livePreview: "https://lakme-clone.vercel.app/",
   },
+
   {
     name: "Clone of Porter",
     image: "/porter.png",
@@ -45,6 +46,15 @@ const projects = [
     sourceCode:
       "https://github.com/avinashpanchal123/porterClone_Backend/tree/main/constructweek_porter_clone-main",
     livePreview: "https://porterclone.herokuapp.com/",
+  },
+  {
+    name: "Amazon Clone",
+    image: "/Amazon.png",
+    description:
+      "An complete e-commerce website to buy all your necessary items. Buy range of items from many categories and enjoy shopping",
+    stack: ["React", "Redux", "Javascript", "CSS", "Firebase"],
+    sourceCode: "https://github.com/Vivek14kr/amazon-clone",
+    livePreview: "https://aammaazzoonn.herokuapp.com/",
   },
   {
     name: "Clone of NordStorm",
