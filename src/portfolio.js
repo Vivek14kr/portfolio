@@ -64,6 +64,44 @@ const projects = [
     sourceCode: "https://github.com/taherahmed14/nordstrom-clone/",
     livePreview: "https://nordstrom-clone-sage.vercel.app/",
   },
+
+  {
+    name: "Bio Generator",
+    image: "/Biogenerator.png",
+    description:
+      "A Website which will generate your bio Automatically just by providing some information instantly.",
+    stack: ["React"],
+    sourceCode: "https://github.com/Vivek14kr/BioBuilder",
+    livePreview: "https://beamish-travesseiro-7a3517.netlify.app/",
+  },
+  {
+    name: "Online School Website",
+    image: "/masailms.png",
+    description:
+      "It is an online classroom website which will let you post assignments and lectures instantly",
+    stack: ["React", "MongoDB", "Node.js", "Express.js"],
+    sourceCode: "https://github.com/Vivek14kr/masainewlms",
+    livePreview: "https://masaiilmss.herokuapp.com/",
+  },
+
+  {
+    name: "Weather App",
+    image: "/weather.png",
+    description:
+      "It is an weather app which will let you know temperature of a particular location or place",
+    stack: ["React"],
+    sourceCode: "https://github.com/Vivek14kr/Weatherapp",
+    livePreview: "https://deft-kataifi-c10425.netlify.app/",
+  },
+  {
+    name: "Music App",
+    image: "/musicapp.png",
+    description:
+      "It is an songs website where you can listen you favourite songs online",
+    stack: ["React", "APIs", "Filtering"],
+    sourceCode: "https://github.com/Vivek14kr/musicplayer",
+    livePreview: "https://musicccapp.herokuapp.com/",
+  },
 ];
 
 const frontskills = [
